@@ -23,7 +23,7 @@ struct ContentView: View {
     @State var showAppInfo = false
     @State var changeLanguage = false
     
-    let imageWidthRatio = 0.19
+    let imageWidthRatio = 0.19 // Trial and error value
     
     var body: some View {
         let routes = Routes(language: $language)
