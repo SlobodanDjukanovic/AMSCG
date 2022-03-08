@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1024 1024"
+   xml:space="preserve"
+   sodipodi:docname="bank.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   width="1024"
+   height="1024"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs29">
+	
+	
+
+		
+		
+		
+		
+		
+		
+		
+	</defs><sodipodi:namedview
+   id="namedview27"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.70214844"
+   inkscape:cx="420.85118"
+   inkscape:cy="497.758"
+   inkscape:window-width="1920"
+   inkscape:window-height="1129"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:none;stroke:#FFD200;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st1{fill:#FFD200;}
+</style>
+
+<g
+   id="g1223"
+   style="stroke-width:18;stroke-miterlimit:10;stroke-dasharray:none"><path
+     class="st0"
+     d="m 809.22651,717.72203 c 124.4016,24.05784 205.21129,62.92049 205.21129,106.71808 0,72.99598 -224.53981,132.21526 -501.71892,132.21526 C 235.53976,956.65537 11,897.43609 11,824.44011 11,781.46501 88.725301,743.21922 209.22008,719.16139"
+     id="path4"
+     style="stroke:#ffd200;stroke-width:18;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" /><polygon
+     class="st0"
+     points="401.7,106.2 401.7,136.9 109.9,136.9 109.9,106.2 258.4,58.7 "
+     id="polygon6"
+     transform="matrix(2.0562249,0,0,2.0562249,-16.759036,-60.970335)"
+     style="stroke:#ffd200;stroke-width:8.75390625;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" /><polygon
+     class="st0"
+     points="127.4,358 387.7,358 414.1,396.8 101,396.8 "
+     id="polygon8"
+     transform="matrix(2.0562249,0,0,2.0562249,-16.759036,25.391111)"
+     style="stroke:#ffd200;stroke-width:8.75390625;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" /><g
+     id="g868"
+     transform="matrix(2.0562249,0,0,2.3781734,-16.759036,-93.978899)"
+     style="stroke:#ffd200;stroke-width:8.13983196;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"><line
+       class="st0"
+       x1="137.89999"
+       y1="136.89999"
+       x2="137.89999"
+       y2="358"
+       id="line10"
+       style="stroke:#ffd200;stroke-width:8.13983196;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" /><line
+       class="st0"
+       x1="164.5"
+       y1="136.89999"
+       x2="164.5"
+       y2="358"
+       id="line12"
+       style="stroke:#ffd200;stroke-width:8.13983196;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" /><line
+       class="st0"
+       x1="346.5"
+       y1="136.89999"
+       x2="346.5"
+       y2="358"
+       id="line14"
+       style="stroke:#ffd200;stroke-width:8.13983196;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" /><line
+       class="st0"
+       x1="372.39999"
+       y1="136.89999"
+       x2="372.39999"
+       y2="358"
+       id="line16"
+       style="stroke:#ffd200;stroke-width:8.13983196;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" /></g><g
+     id="g6"
+     style="fill:#ffd200;fill-opacity:1;stroke-width:7.58187605;stroke-miterlimit:10;stroke-dasharray:none"
+     transform="matrix(2.3740826,0,0,2.3740826,-49.903972,-368.76773)"><path
+       d="m 191.12626,352.23048 h 81.87009 l -3.33595,7.59412 h -81.87009 z m 0,15.18824 h 75.19821 l -3.33593,7.5941 h -75.19823 z m 87.58764,-28.20411 a 40.124374,37.970595 0 1 0 0,48.81406 v 10.6655 a 48.149246,45.564712 0 1 1 3.39579,-67.2099 z"
+       id="path2"
+       style="fill:#ffd200;fill-opacity:1;stroke-width:7.58187605;stroke-miterlimit:10;stroke-dasharray:none" /></g></g></svg>

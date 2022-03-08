@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1024 1024"
+   xml:space="preserve"
+   sodipodi:docname="ambulance_yellow.svg"
+   width="1024"
+   height="1024"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15">
+	
+	
+</defs><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.35107422"
+   inkscape:cx="-61.240612"
+   inkscape:cy="565.40751"
+   inkscape:window-width="1920"
+   inkscape:window-height="1129"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:none;stroke:#FFD200;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFD200;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;}
+</style>
+<g
+   id="g838"
+   transform="translate(-1.26e-5,-3.9999988)"
+   style="stroke:#ffd200;stroke-opacity:1"><path
+     class="st0"
+     d="m 824.49984,704.06729 c 116.04088,24.47002 190.48616,62.2483 190.48616,104.5342 0,73.62472 -225.25575,133.29723 -502.98596,133.29723 -277.73019,0 -502.9860148,-59.45786 -502.9860148,-133.29723 0,-41.21265 70.3924458,-77.91769 180.8872548,-102.38771"
+     id="path4"
+     style="stroke:#ffd200;stroke-width:18.0379;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" /><g
+     id="g8"
+     transform="matrix(2.1316467,0,0,2.187085,-37.005608,-49.667979)"
+     style="stroke:#ffd200;stroke-width:8.03418;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1">
+		<path
+   class="st1"
+   d="M 300.2,390.5 V 261.1 H 214.9 V 390.5 H 134.6 V 63.8 h 80.3 v 125.7 h 85.3 V 63.8 h 80.3 v 326.7 z"
+   id="path6"
+   style="stroke:#ffd200;stroke-width:8.03418;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	</g></g>
+</svg>

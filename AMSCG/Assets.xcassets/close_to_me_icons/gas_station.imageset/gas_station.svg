@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1024 1024"
+   xml:space="preserve"
+   sodipodi:docname="gas_station.svg"
+   width="1024"
+   height="1024"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs27">
+	
+	
+</defs><sodipodi:namedview
+   id="namedview25"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.70214844"
+   inkscape:cx="715.66064"
+   inkscape:cy="497.758"
+   inkscape:window-width="1920"
+   inkscape:window-height="1129"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:none;stroke:#FFD200;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFD200;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g
+   id="g862"
+   style="stroke-width:17.95107256;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1"
+   transform="matrix(1.0027256,0,0,1.0027256,-6.6096898,33.763683)"><g
+     id="g18"
+     style="stroke-width:8.41016829;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1"
+     transform="matrix(2.0783438,0,0,2.1920681,-12.077451,-103.78122)">
+		<g
+   id="g6"
+   style="stroke-width:8.41016829;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1">
+			<path
+   class="st0"
+   d="M 328.3,57 H 196 c -18.4,0 -33.3,14.9 -33.3,33.3 v 132.1 c 0,3.2 1.1,6.3 3.2,8.7 l 14.8,17 3.8,171.4 h 155.4 l 3.8,-171.4 14.8,-17.1 c 2.1,-2.4 3.2,-5.5 3.2,-8.6 V 90.3 C 361.7,71.9 346.8,57 328.3,57 Z"
+   id="path4"
+   style="stroke-width:8.41016829;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1" />
+		</g>
+		<g
+   id="g10"
+   style="stroke-width:8.41016829;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1">
+			<path
+   class="st0"
+   d="M 319,85 H 205.4 c -8.4,0 -15.3,6.8 -15.3,15.3 v 104.5 c 0,8 6.5,14.5 14.5,14.5 h 115.2 c 8,0 14.5,-6.5 14.5,-14.5 V 100.3 C 334.2,91.8 327.4,85 319,85 Z"
+   id="path8"
+   style="stroke-width:8.41016829;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1" />
+		</g>
+		<g
+   id="g16"
+   style="stroke-width:8.41016829;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1">
+			<path
+   class="st0"
+   d="m 343.5,258.6 c -7.8,165 146.6,77.5 49.6,-30.5 -35.5,-39.5 -13.1,-76 4.9,-94.1 14.3,-14.3 17.1,-14.9 27.2,-23.1"
+   id="path12"
+   style="stroke-width:8.41016829;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1" />
+			<polyline
+   class="st1"
+   points="380.3,171.2 393.7,173.8 409.8,151.6 399.8,132.2    "
+   id="polyline14"
+   style="stroke-width:8.41016829;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1" />
+		</g>
+	</g><path
+     class="st0"
+     d="m 918.0086,721.16581 c 63.38948,22.03045 100.7997,49.67242 100.7997,79.60057 0,72.94987 -224.66899,132.18267 -501.71222,132.18267 -277.04323,0 -501.504361,-59.2328 -501.504361,-132.18267 0,-49.88025 105.164191,-93.52547 260.416481,-115.97158"
+     id="path20"
+     style="stroke-width:17.95107256;stroke-miterlimit:4;stroke-dasharray:none;stroke:#00214d;stroke-opacity:1" /></g>
+</svg>

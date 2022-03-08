@@ -1,0 +1,84 @@
+/*
+  Localizable.strings
+  AMSCG
+
+  Created by Slobodan Djukanovic on 8.2.22..
+  
+*/
+
+"choose_language" = "Odaberite jezik";
+"app_language" = "Promjena jezika";
+"terms_conditions" = "Uslovi korišćenja";
+"about_app" = "O aplikaciji";
+"contact" = "Kontakt";
+"app_development" = "Razvoj aplikacije";
+"terms_conditions_text" = "Svrha aplikacije AMSCG je davanje informacija o stanju na putevima u Crnoj Gori i pružanje pomoći na putu motorizovanim učesnicima u saobraćaju.
+Za korišćenje aplikacije, nije potrebno kreiranje korisničkog naloga.
+Aplikacija ne prikuplja lične podatke o korisnicima. U svrhu određivanja distance korisnika aplikacije u odnosu na tačke od interesa (npr. benzinske pumpe ili parkinzi), aplikacija koristi GPS koordinate korisničkog uređaja.
+Koordinate se koriste isključivo lokalno, tj. ne prosljeđuju se van aplikacije.
+Aplikaciju koristite na bezbjedan način - propisno se parkirajte prije korišćenja aplikacije. Nemojte koristiti aplikaciju na način koji će Vas ometati, jer time možete dovesti u opasnost Vas i druge učesnike u saobraćaju.
+Aplikacija je dostupna na crnogorskom i engleskom jeziku.";
+"app_development_text" = "Aplikaciju razvio Slobodan Đukanović";
+
+"road_condition" = "Stanje na putevima";
+"road_assistance" = "Pomoć na putu";
+"road_works" = "Radovi na putu";
+"closest_pumps" = "Benzinske pumpe i punionice";
+"close_to_me" = "Blizu mene";
+"fuel_prices" = "Cijene goriva";
+"tolls" = "Putarine";
+"international_license" = "Međunarodna vozačka dokumenta";
+"borders_cameras" = "Granični prelazi (kamere)";
+
+"no_internet" = "Nema interneta";
+"no_internet_detailed" = "Nemate Internet konekciju!\nDa bi aplikacija radila ispravno, potrebna je Internet konekcija.";
+"copy_my_location" = "Kopiraj moju lokaciju";
+"location_info" = "Infomacija o lokaciji";
+"current_location" = "Trenutna lokacija";
+"location_disabled" = "Lociranje uređaja je onemogućeno. Da bi aplikacija radila ispravno, potrebno je uključiti lociranje uređaja.";
+"location_restricted" = "Lociranje Vašeg uređaja je ograničeno, vjerovatno kao posljedica roditeljskih kontrola.";
+"location_denied" = "Odbili ste lociranje Vašeg uređaja. U podešavanjima uređaja (Settings) možete to promjeniti.";
+"location_unknown" = "Desila se nepoznata situacija. Žao nam je zbog toga.";
+"location_copied%@" = "Vaša lokacija\n %@ \nje kopirana na clipboard.";
+"location" = "Lokacija";
+"location_description" = "Opis";
+"location_distance" = "Rastojanje od lokacije";
+"category" = "Kategorija";
+"general_info" = "Opšti podaci";
+"contact_info" = "Kontakt podaci";
+"address" = "Adresa";
+"phone" = "Telefon";
+"phones" = "Telefoni";
+"web" = "Web";
+"e_mail" = "e-mejl";
+"working_hours_info" = "Radno vrijeme info centra";
+"working_hours_management" = "Radno vrijeme uprave";
+"working_hours_management_text" = "Pon-Pet, 8-16h";
+
+"all_categories" = "Sve kategorije";
+"gas_station" = "Benzinske pumpe";
+"gas_station_singular" = "Benzinska pumpa";
+"electric_station" = "Električne punionice";
+"electric_station_singular" = "Električna punionica";
+"service" = "Servisi";
+"service_singular" = "Servis";
+"parking" = "Parkinzi";
+"parking_singular" = "Parking";
+"garage" = "Garaže";
+"garage_singular" = "Garaža";
+"bank" = "Banke";
+"bank_singular" = "Banka";
+"police" = "Policija";
+"police_singular" = "Policija";
+"ambulance" = "Zdravstvena zaštita";
+"ambulance_singular" = "Zdravstvena zaštita";
+
+"current_condition" = "Trenutno stanje na putevima";
+"restriction_cargo" = "Ograničenje za teretna vozila";
+"driver_advices" = "Savjeti vozačima";
+
+"list" = "LISTA";
+"map" = "MAPA";
+"info" = "INFO";
+
+"close" = "Zatvori";

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1024 1024"
+   xml:space="preserve"
+   sodipodi:docname="parking.svg"
+   width="1024"
+   height="1024"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15">
+	
+	
+</defs><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.70214844"
+   inkscape:cx="557.57441"
+   inkscape:cy="423.69958"
+   inkscape:window-width="1920"
+   inkscape:window-height="1129"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:none;stroke:#FFD200;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFD200;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g
+   id="g893"
+   transform="translate(0,9.0000005)"><path
+     class="st0"
+     d="m 646.18935,701.51303 c 212.52749,15.47936 368.78545,66.72861 368.78545,127.80935 0,73.21321 -225.07837,132.62051 -502.87022,132.62051 -277.79185,0 -503.0793655,-59.61648 -503.0793655,-132.82969 0,-56.68794 135.5490355,-105.21785 326.1125755,-124.0441"
+     id="path4"
+     style="stroke:#00214d;stroke-width:18.0504;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" /><g
+     id="g8"
+     transform="matrix(2.32011,0,0,2.32011,-85.937998,-96.07753)"
+     style="stroke:#00214d;stroke-width:7.77998;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1">
+		<path
+   class="st1"
+   d="M 342.3,276.4 H 291.8 V 396.2 H 209.3 V 60.4 h 133 c 74.5,0 114.6,52.8 114.6,108 0,55.2 -40.1,108 -114.6,108 z m -3.8,-142 h -46.7 v 67.9 h 46.7 c 22.6,0 35.8,-16.5 35.8,-34 0,-17.4 -13.2,-33.9 -35.8,-33.9 z"
+   id="path6"
+   style="stroke:#00214d;stroke-width:7.77998;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+	</g></g>
+</svg>

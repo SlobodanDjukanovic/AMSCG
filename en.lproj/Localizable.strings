@@ -1,0 +1,84 @@
+/*
+  Localizable.strings
+  AMSCG
+
+  Created by Slobodan Djukanovic on 8.2.22..
+  
+*/
+
+"choose_language" = "Choose language";
+"app_language" = "Change language";
+"terms_conditions" = "Terms of use";
+"about_app" = "About application";
+"contact" = "Contact";
+"app_development" = "Application development";
+"terms_conditions_text" = "The purpose of the AMSCG application is to provide information on the situation on the roads in Montenegro and to provide roadside assistance to motorized road users.
+You do not need to create a user account in order to use the application.
+The application does not collect user's personal data. In order to estimate the distance of the aplication user with respect to the points of interest (e.g. gas stations or parking lots), the application uses the GPS coordinates of the user device. Coordinates are used exclusively locally, i.e. they are not forwarded outside the application.
+Use the application in a safe way - park properly before using it.
+Do not use the application in a way that will distract you, as this may endanger you and other road users.
+The application is available in Montenegrin and English.";
+"app_development_text" = "Developed by Slobodan Đukanović";
+
+"road_condition" = "Road conditions";
+"road_assistance" = "Road assistance";
+"road_works" = "Road works";
+"closest_pumps" = "Gas and charging stations";
+"close_to_me" = "Near me";
+"fuel_prices" = "Fuel prices";
+"tolls" = "Tolls";
+"international_license" = "International driving documents";
+"borders_cameras" = "Border crossings (cameras)";
+
+"no_internet" = "No internet";
+"no_internet_detailed" = "You've lost Internet connection!\nApplication requires an Internet connection to work properly.";
+"copy_my_location" = "Copy my location";
+"location_info" = "Location info";
+"current_location" = "Current location";
+"location_disabled" = "Location services are disabled. Turn them on if you want to use this application properly.";
+"location_restricted" = "Your location is restricted, likely due to parental controls.";
+"location_denied" = "You have denied this app location permission. Go to Settings to change it.";
+"location_unknown" = "Unknown situation occured. We're sorry about that.";
+"location_copied%@" = "Your location\n %@ \nhas been copied to the clipboard.";
+"location" = "Location";
+"location_description" = "Description";
+"location_distance" = "Distance to location";
+"category" = "Category";
+"general_info" = "General info";
+"contact_info" = "Contact info";
+"address" = "Address";
+"phone" = "Phone";
+"phones" = "Phones";
+"web" = "Web";
+"e_mail" = "e-mail";
+"working_hours_info" = "Working hours of Info center";
+"working_hours_management" = "Working hours of management";
+"working_hours_management_text" = "Mon-Fri, 8-16h";
+
+"all_categories" = "All categories";
+"gas_station" = "Gas stations";
+"gas_station_singular" = "Gas station";
+"electric_station" = "Charging stations";
+"electric_station_singular" = "Charging station";
+"service" = "Services";
+"service_singular" = "Service";
+"parking" = "Parkings";
+"parking_singular" = "Parking";
+"garage" = "Garages";
+"garage_singular" = "Garage";
+"bank" = "Banks";
+"bank_singular" = "Bank";
+"police" = "Police";
+"police_singular" = "Police";
+"ambulance" = "Health care";
+"ambulance_singular" = "Health care";
+
+"current_condition" = "Current road conditions";
+"restriction_cargo" = "Restrictions for cargo vehicles";
+"driver_advices" = "Advices to drivers";
+
+"list" = "LIST";
+"map" = "MAP";
+"info" = "INFO";
+
+"close" = "Close";
